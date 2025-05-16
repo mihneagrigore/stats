@@ -1,1 +1,4 @@
-![mihneagrigore's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihneagrigore&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)           ![mihneagrigore's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mihneagrigore&theme=gruvbox&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihneagrigore&theme=gruvbox&show_icons=true&hide_border=false&layout=compact" alt="mihneagrigore's Top Languages" style="margin-right: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mihneagrigore&theme=gruvbox&hide_border=false" alt="mihneagrigore's Streak">
+</p>
